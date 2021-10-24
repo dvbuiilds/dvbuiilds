@@ -5,7 +5,7 @@ I am a pre-final year engineering student from Delhi Technological University.
 I have experience in WordPress Development, Data Strcutures and Algorithms in C++.  
 I have done most of my development journey in C++ and Python.  
 Some of my Projects are listed below.  
-Do try them and provide me a feedback. 
+Do try them and provide me a feedback.  
 You can find me on: [LinkedIn](https://www.linkedin.com/in/dhairya-varshney/), [Instagram](https://www.instagram.com/varshney_dhairya/).  
 Email: varshneydhairya4[at]gmail[dot]com(preventing from spam).  
 Thank you!
