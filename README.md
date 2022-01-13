@@ -1,4 +1,6 @@
-### Hi there 👋, I hope you are doing good!
+<h1 align="center">Hi there 👋, I am Dhairya Varshney.</h1>
+
+![alt text](https://github.com/dvbuiilds/dvbuiilds/blob/main/banner-dhairya-github.png?raw=true)
 
 ## About Me
 I am a pre-final year engineering student from Delhi Technological University.  
