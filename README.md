@@ -3,7 +3,7 @@
 ![alt text](https://github.com/dvbuiilds/dvbuiilds/blob/main/banner-dhairya-github.png?raw=true)
 
 ## About Me
-I am a pre-final year engineering student from Delhi Technological University.  
+I am a final year engineering student from Delhi Technological University.  
 I have experience in WordPress Development, Data Strcutures and Algorithms in C++.  
 I have done most of my development journey in C++ and Python.  
 Some of my Projects are listed below.  
